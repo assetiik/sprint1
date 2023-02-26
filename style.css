@@ -1,0 +1,67 @@
+.navbar{
+    display: flex;
+    background-color: rgb(100, 0, 0);
+    padding: 20px;
+}
+.name a{
+    font-family: Arial;
+    text-decoration: none;
+    color: white;
+    font-family: Arial;
+    width: 8%;
+}
+.categories{
+    width: 92%;
+    text-align: right;
+}
+.categories a{
+    color: grey;
+    text-decoration: none;
+    margin-left: 10px;
+}
+.news{
+    margin-top: 15px;
+    background-color: rgb(138, 232, 232);
+    display: flex;
+}
+.img{
+    width: 40%;
+    padding: 20px;
+}
+.text{
+    font-family: Arial;
+    font-size: 22px;
+    width: 60%;
+    padding: 20px;
+}
+.latestnews{
+    text-align: center;
+    font-family: Arial;
+}
+.products{
+    display: flex;
+    padding: 20px;
+}
+.card{
+    width: 25%;
+    border: 1px solid lightgray;
+    border-radius: 5px;
+	margin: 10px;
+    text-align: right 10px;
+}
+.image{
+    width: 100%;
+}
+
+.card-content{
+    padding: 20px;
+    font-family: Arial;
+    font-size: 15px;
+}
+.card-button{
+    background-color: rgb(100, 0, 0);
+    color: white;
+    text-align: center;
+    padding: 10px 30px 10px 30px;
+    border: 0px;
+}
